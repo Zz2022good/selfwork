@@ -1,0 +1,6 @@
+
+# build outputs
+week_03/gemm
+week_03/cublas_run
+*.o
+*.out
