@@ -157,9 +157,9 @@ int run_benchmark(int M, int N, int K) {
 
 int main() {
     int M, N, K;
-    M = 1024;
-    K = 1024;
-    N = 1024;
+    M = 4096;
+    K = 4096;
+    N = 4096;
     run_benchmark(M, N, K);
     return 0;
 }
